@@ -1,5 +1,3 @@
-//write a progrom to convert binary to decimal
-//Downloaded From www.turboc8.com coded by Yogendra Singh.
 
 #include<iostream.h>
 #include<conio.h>
