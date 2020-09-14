@@ -1,6 +1,4 @@
-//WELCOME TO TURBO C++ ON WINDOWS NOW RUN YOUR FIRST PROGRAM...!!!!
 
-//Downloaded From www.turboc8.com coded by Yogendra Singh.
 
 #include<stdio.h>
 #include<conio.h>
